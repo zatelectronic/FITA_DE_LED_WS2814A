@@ -94,7 +94,7 @@ Cada um dos 10 pixels da barra é composto por:
 ```
          5V ──────────────────────────────────────┐
                                                   │
-DIN_n ──[R_n 100Ω]──► WS2814C (controlador)      │
+DIN_n ──[R_n 100Ω]──► WS2814C (controlador)       │
                            │                      │
                      [C_n 100nF]                  │
                            │                     GND
