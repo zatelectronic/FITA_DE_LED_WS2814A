@@ -3825,13 +3825,14 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 130.81 123.19 0)
+			(at 128.905 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -4680,13 +4681,14 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 130.81 64.77 0)
+			(at 128.905 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -5426,13 +5428,14 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 130.81 181.61 0)
+			(at 128.905 184.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -6222,13 +6225,14 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 248.92 123.19 0)
+			(at 247.015 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -8758,13 +8762,14 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 248.92 64.77 0)
+			(at 247.015 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""

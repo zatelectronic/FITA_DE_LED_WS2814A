@@ -1420,23 +1420,25 @@
 		(fields_autoplaced yes)
 		(uuid "7c95a317-d6e6-4390-9be4-4dbcf89cde24")
 		(property "Reference" "J1"
-			(at 62.23 54.61 0)
+			(at 59.69 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "PinHeader_1x03_90deg"
-			(at 62.23 57.15 0)
+			(at 59.69 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "ZAT_Connector:PinHeader_1x03_P2.54mm_Horizontal_EdgeMount"
@@ -1985,23 +1987,25 @@
 		(dnp no)
 		(uuid "d5084b23-d780-4e32-bd34-a3d9cf3125c7")
 		(property "Reference" "J2"
-			(at 128.27 54.61 0)
+			(at 125.73 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "PinHeader_1x03_90deg"
-			(at 128.27 57.15 0)
+			(at 125.73 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "ZAT_Connector:PinHeader_1x03_P2.54mm_Horizontal_EdgeMount"
